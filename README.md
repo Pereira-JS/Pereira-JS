@@ -15,3 +15,8 @@ Python • JavaScript • React • HTML • CSS • SQL
 Em breve adicionarei aqui alguns projetos de estudo e experimentação.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pereira-JS&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pereira-JS&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-JS&layout=compact&theme=tokyonight" />
+</p>
