@@ -8,6 +8,7 @@
 ## 🛠️ Tecnologias
 
 Python • JavaScript • React • HTML • CSS • SQL
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-JS&layout=compact&theme=tokyonight)
 
 ## 📌 Projetos
 
