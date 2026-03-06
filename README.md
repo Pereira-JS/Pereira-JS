@@ -9,15 +9,9 @@
 
 Python • JavaScript • React • HTML • CSS • SQL
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-JS&layout=compact&theme=tokyonight&cache_buster=1" alt="Top Languages" />
-</p>
 ## 📌 Projetos
 
 Em breve adicionarei aqui alguns projetos de estudo e experimentação.
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pereira-JS&show_icons=true&theme=tokyonight&cache_buster=1" alt="GitHub Stats" />
-</p>
 
 ## 🐍 Contribuições
 
