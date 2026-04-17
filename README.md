@@ -9,9 +9,10 @@
 
 Python • JavaScript • React • HTML • CSS • SQL
 
-## 📌 Projetos
+## 📌 ProjetosProjeto em Python para criação, manipulação e análise de grafos: 
+https://github.com/Pereira-JS/analises-de-grafos
 
-Em breve adicionarei aqui alguns projetos de estudo e experimentação.
+Em breve adicionarei mais alguns projetos de estudo e experimentação.
 
 ## 🐍 Contribuições
 
