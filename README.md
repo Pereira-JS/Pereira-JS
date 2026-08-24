@@ -7,7 +7,7 @@
 
 ## 🛠️ Tecnologias
 
-Python • JavaScript • React • HTML • CSS • SQL
+Python • C# • JavaScript • React • HTML • CSS • SQL
 
 ## 📌 ProjetosProjeto em Python para criação, manipulação e análise de grafos: 
 https://github.com/Pereira-JS/analises-de-grafos
