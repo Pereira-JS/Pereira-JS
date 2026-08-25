@@ -9,8 +9,12 @@
 
 Python • C# • JavaScript • React • HTML • CSS • SQL
 
-## 📌 ProjetosProjeto em Python para criação, manipulação e análise de grafos: 
+## 📌 ProjetoS
+Projeto em Python para criação, manipulação e análise de grafos: 
 https://github.com/Pereira-JS/analises-de-grafos
+
+Sistema bancário simples desenvolvido em C# para praticar lógica de programação e fundamentos da linguagem
+https://github.com/Pereira-JS/SistemaBanco-CSharp.git
 
 Em breve adicionarei mais alguns projetos de estudo e experimentação.
 
